@@ -53,9 +53,15 @@ header h5 {
 }
 
 #time-container {
+  font-family: cursive;
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
+}
+
+#time-container p {
+  font-size: 30px;
+  margin-bottom: 0;
 }
 
 #card {
