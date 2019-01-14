@@ -51,7 +51,7 @@ export default class Landing extends React.Component {
       >
         <div id="card">
           <header>
-            <h1>Hey, I'm James! And boy am I bored.</h1>
+            <h1>Hey, I'm James!</h1>
             <h5>So yeah... this is when I leave for Florida.</h5>
           </header>
 
