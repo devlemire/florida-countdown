@@ -6,6 +6,7 @@
   "author": "James Lemire <webdev.jameslemire@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "install-dependencies": "yarn && cd public && yarn",
     "dev": "cd public && yarn start",
     "build": "cd public && yarn build"
   },
