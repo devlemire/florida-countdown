@@ -1,10 +1,9 @@
 import React from 'react'
 import moment from 'moment'
 import countdown from 'countdown'
+import beach from './beach.jpg'
 
 import './Landing.css'
-
-import beach from './beach.jpg'
 
 export default class Landing extends React.Component {
   state = {
@@ -53,6 +52,10 @@ export default class Landing extends React.Component {
           <header>
             <h1>Hey, I'm James!</h1>
             <h5>So yeah... this is when I leave for Florida.</h5>
+
+            <br />
+
+            <audio src="/music/music.mp4" controls />
           </header>
 
           <section id="time-container">
