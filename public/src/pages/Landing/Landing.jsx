@@ -55,7 +55,7 @@ export default class Landing extends React.Component {
 
             <br />
 
-            <audio src="/music/music.mp4" controls />
+            <audio src="/music/music.mp4" controls autoPlay />
           </header>
 
           <section id="time-container">
