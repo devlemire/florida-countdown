@@ -70,6 +70,10 @@ header h5 {
     padding: 20px;
   }
 
+  #card {
+    width: 100%;
+  }
+
   #time-container {
     flex-direction: column;
     justify-content: center;
